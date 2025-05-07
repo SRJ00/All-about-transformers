@@ -7,3 +7,4 @@
 -  [DeepSeek from scratch lectures-Vizuara](https://www.youtube.com/watch?v=QWNxQIq0hMo&list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms)
 -  [LLM from Scratch Series-Vizuara](https://www.youtube.com/watch?v=Xpr8D6LeAtw&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
 -  [Neural Networks in NumPy](https://iamtrask.github.io/2015/07/12/basic-python-network/)
+-  [Transformer in NumPy](https://github.com/DorsaRoh/Machine-Learning)
